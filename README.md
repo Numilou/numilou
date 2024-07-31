@@ -3,7 +3,7 @@
 
 + I'm a Middle QA Engineer for mobile video games, with over 3 years of experience.
 + I have experience in functional and non-functional testing 
-+ Experience working on platforms: Android, iOS, kindle fire, Windows,MacOS
++ Experience working on platforms: Android, iOS, kindle fire, Windows, MacOS
 + I have experience in AB testing based on analytics events
 
 + ### Socials  <p align="left"> <a href="https://www.linkedin.com/in//darya-ivanova-404a87258/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
