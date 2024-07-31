@@ -9,6 +9,12 @@
 **You can read more about my experience in my letter of recommendation:**
 
 :medal_military:[Recommendation letter from LLC DominiGames:](https://drive.google.com/file/d/1gHYBztBoc4YdY7ZxcsnrG2A5cCiFf08-/view?usp=share_link)
-+ ### Socials  <p align="left"> <a href="https://www.linkedin.com/in//darya-ivanova-404a87258/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
++ ### Socials
++ <a href="https://www.linkedin.com/in/darya-ivanova-404a87258/">
+
+
++ <img scr= "https://github.com/Numilou/images/blob/main/free-icon-linkedin-3128329.png" alt=""/>
+<a/>
+
 
 <!--
