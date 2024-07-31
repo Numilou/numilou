@@ -13,7 +13,7 @@
 + <a href="https://www.linkedin.com/in/darya-ivanova-404a87258/">
 
 
-+ <img scr= "https://github.com/Numilou/images/blob/main/free-icon-linkedin-3128329.png" alt=""/>
++ <img scr= "https://github.com/Numilou/images/blob/main/free-icon-linkedin-3128329.png" />
 <a/>
 
 
