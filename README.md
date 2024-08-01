@@ -18,5 +18,5 @@ You can read more about my experience in my letter of recommendation:
 </a>
 
 <a href="https://drive.google.com/file/d/1gHYBztBoc4YdY7ZxcsnrG2A5cCiFf08-/view?usp=share_link" />
-  <img src=""/>
+  <img src="https://github.com/Numilou/images/blob/main/free-icon-recommendation-letter-12620532.png"/>
 </a>
