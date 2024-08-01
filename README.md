@@ -28,7 +28,6 @@
 </div>
 
 
-
 <h4>Socials</h4>
 
 <a href="https://www.linkedin.com/in/darya-ivanova-404a87258/" target="_blank" rel="noreferrer">
