@@ -20,10 +20,10 @@
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 20px;">
   <a href="https://apps.apple.com/ru/app/pixelwoods-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0-%D0%BF%D0%BE-%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%B0%D0%BC/id1541658506">
-    <img src="https://github.com/Numilou/images/blob/main/PWios.png" alt="gameios" width="150" height="140"/>
+    <img src="https://github.com/Numilou/images/blob/main/PWios.png" alt="gameios" width="130" height="140"/>
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.beresnevgames.pixelgallery&hl=en_US&pli=1">
-    <img src="https://github.com/Numilou/images/blob/main/PWandroid.png" alt="gameandroid" width="140" height="130"/>
+    <img src="https://github.com/Numilou/images/blob/main/PWandroid.png" alt="gameandroid" width="130" height="130"/>
   </a>
 </div>
 
