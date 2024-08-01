@@ -1,5 +1,11 @@
 <h3 align="center">Hi there 👋</h3>
 
+<p align="center">
+  <a href="">
+    <img src="https://github.com/Numilou/images/blob/main/profile.png" alt="CV" width="80" height="80"/>
+  </a>
+</p>
+
 <h2>:woman_technologist: About Me</h2>
 
 + I'm a Middle QA Engineer for mobile video games, with over 3 years of experience.
