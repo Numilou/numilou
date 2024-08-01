@@ -11,7 +11,7 @@ You can read more about my experience in my letter of recommendation:
 
 
 <a href="https://drive.google.com/file/d/1gHYBztBoc4YdY7ZxcsnrG2A5cCiFf08-/view?usp=share_link">
-  <img src="https://github.com/Numilou/images/blob/main/2024-07-31%2019.05.57.jpg" alt="Latter"
+  <img src="https://github.com/Numilou/images/blob/main/icon-recommendation-letter-DG.png" alt="Latter"
   width="50" height="52" />
 </a>
 
