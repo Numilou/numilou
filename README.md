@@ -18,7 +18,7 @@
 <h3> Projects I've been working on: </h3>
 <a href="https://apps.apple.com/ru/app/pixelwoods-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0-%D0%BF%D0%BE-%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%B0%D0%BC/id1541658506">
   <img src="https://github.com/Numilou/images/blob/main/PWios.png" alt="gameios"
-  width="60" height="67" />
+  width="60" height="80" />
 </a>
 
 <h4>Socials</h4>
