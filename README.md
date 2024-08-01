@@ -1,5 +1,4 @@
-<p align="center"> 
-### Hi there 👋 
+<p align="center">  ### Hi there 👋 
  </p>
 
 ## :woman_technologist: About Me
