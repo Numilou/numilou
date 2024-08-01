@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1gHYBztBoc4YdY7ZxcsnrG2A5cCiFf08-/view?usp=share_link">
-    <img src="https://github.com/Numilou/images/blob/main/icon-recommendation-letter-DG.png" alt="letter" width="60" height="60"/>
+    <img src="https://github.com/Numilou/images/blob/main/icon-recommendation-letter-DG.png" alt="Recommendation Letter" width="60" height="60"/>
   </a>
 </p>
 
@@ -35,6 +35,7 @@
     <small>Android</small>
   </div>
 </div>
+
 
 
 <h4>Socials</h4>
