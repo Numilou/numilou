@@ -7,7 +7,7 @@
 + Experience working on platforms: Android, iOS, Kindle Fire, Windows, MacOS
 + I have experience in AB testing based on analytics events
 
-<h3>:You can read more about my experience in my letter of recommendation:</h3>
+<h3> You can read more about my experience in my letter of recommendation:</h3>
 
 
 <a href="https://drive.google.com/file/d/1gHYBztBoc4YdY7ZxcsnrG2A5cCiFf08-/view?usp=share_link">
@@ -15,7 +15,7 @@
   width="50" height="52" />
 </a>
 
-<h2>: Projects I've been working on: </h2>
+<h3> Projects I've been working on: </h3>
 
 <h4>Socials</h4>
 
