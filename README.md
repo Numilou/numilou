@@ -27,6 +27,15 @@
     <div>iOS</div>
   </div>
 
+  <div style="text-align: center;">
+    <a href="https://play.google.com/store/apps/details?id=com.beresnevgames.pixelgallery&hl=en_US&pli=1">
+      <img src="https://github.com/Numilou/images/blob/main/PWandroid.png" alt="gameandroid" width="60" height="50"/>
+    </a>
+    <div>Android</div>
+  </div>
+</div>
+
+
 
 <h4>Socials</h4>
 
