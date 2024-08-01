@@ -1,5 +1,5 @@
-<p align="center">
-  <h1>Hi there 👋</h1>
+<p align="center" style="font-size: 36px;">
+  <strong>Hi there 👋</strong>
 </p>
 
 <h2>:woman_technologist: About Me</h2>
