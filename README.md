@@ -16,42 +16,16 @@
   </a>
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Centered Icons</title>
-    <style>
-        body {
-            text-align: center; /* Центрирует все содержимое body, включая заголовки и блоки */
-        }
-        .icon-container {
-            display: flex;
-            justify-content: center; /* Центрирует элементы внутри контейнера по горизонтали */
-            gap: 20px; /* Промежуток между иконками */
-            margin-top: 20px; /* Отступ сверху от заголовка */
-        }
-        .icon-container img {
-            width: 60px; /* Ширина изображений */
-            height: 50px; /* Высота изображений */
-            object-fit: cover; /* Масштабирует изображение, сохраняя пропорции и заполняя контейнер */
-        }
-    </style>
-</head>
-<body>
-    <h3>Projects I've been working on:</h3>
+<h3 align="center">Projects I've been working on:</h3>
 
-    <div class="icon-container">
-        <a href="https://apps.apple.com/ru/app/pixelwoods-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0-%D0%BF%D0%BE-%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%B0%D0%BC/id1541658506">
-            <img src="https://github.com/Numilou/images/blob/main/PWios.png" alt="gameios"/>
-        </a>
-        <a href="https://play.google.com/store/apps/details?id=com.beresnevgames.pixelgallery&hl=en_US&pli=1">
-            <img src="https://github.com/Numilou/images/blob/main/PWandroid.png" alt="gameandroid"/>
-        </a>
-    </div>
-</body>
-</html>
+<p align="center">
+  <a href="https://apps.apple.com/ru/app/pixelwoods-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0-%D0%BF%D0%BE-%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%B0%D0%BC/id1541658506">
+    <img src="https://github.com/Numilou/images/blob/main/PWios.png" alt="gameios" width="60" height="50"/>
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.beresnevgames.pixelgallery&hl=en_US&pli=1">
+    <img src="https://github.com/Numilou/images/blob/main/PWandroid.png" alt="gameandroid" width="60" height="50"/>
+  </a>
+</p>
 
 
 
