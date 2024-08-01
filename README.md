@@ -18,10 +18,9 @@
 
 <h3 align="left">Projects I've been working on:</h3>
 
-<a href="https://www.youtube.com/watch?v=1vJwc2fuKR0](https://youtu.be/1vJwc2fuKR0?si=PlyauFg0_VSURVfF" style="text-decoration: none;">
+<a href="https://youtu.be/1vJwc2fuKR0?si=PlyauFg0_VSURVfF" style="text-decoration: none;">
   <h4><em>Pixel Woods</em></h4>
 </a>
-
 
 <p align="left">
   <a href="https://apps.apple.com/ru/app/pixelwoods-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0-%D0%BF%D0%BE-%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%B0%D0%BC/id1541658506" style="margin-right: 20px;">
