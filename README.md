@@ -8,6 +8,14 @@
 + I have experience in AB testing based on analytics events
 
 
+<h2> You can read more about my experience in my letter of recommendation:</h2>
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://drive.google.com/file/d/1gHYBztBoc4YdY7ZxcsnrG2A5cCiFf08-/view?usp=share_link">
+    <img src="https://github.com/Numilou/images/blob/main/icon-recommendation-letter-DG.png" alt="latter" width="100" height="90"/>
+  </a>
+
+
 <h3 align="center">Projects I've been working on:</h3>
 
 <div style="display: flex; justify-content: center; gap: 20px;">
@@ -18,6 +26,8 @@
     <img src="https://github.com/Numilou/images/blob/main/PWandroid.png" alt="gameandroid" width="100" height="90"/>
   </a>
 </div>
+
+
 
 <h4>Socials</h4>
 
