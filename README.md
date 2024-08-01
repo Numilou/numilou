@@ -1,5 +1,5 @@
 
-  <<### Hi there 👋
+  << ### Hi there 👋
 
 ## :woman_technologist: About Me
 
