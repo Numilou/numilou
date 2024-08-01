@@ -7,21 +7,41 @@
 + Experience working on platforms: Android, iOS, Kindle Fire, Windows, MacOS
 + I have experience in AB testing based on analytics events
 
-<h3 align="center">Projects I've been working on:</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Centered Icons</title>
+    <style>
+        body {
+            text-align: center;
+        }
+        .icon-container {
+            display: inline-flex;
+            gap: 10px;
+            margin-top: 20px;
+        }
+        .icon-container img {
+            width: 50px; /* Уменьшите размер изображений здесь */
+            height: 50px; /* Уменьшите размер изображений здесь */
+            object-fit: cover; /* Масштабирует изображение */
+        }
+    </style>
+</head>
+<body>
+    <h3>Projects I've been working on:</h3>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 20px;">
-  <a href="https://apps.apple.com/ru/app/pixelwoods-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0-%D0%BF%D0%BE-%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%B0%D0%BC/id1541658506">
-    <div style="width: 40px; height: 50px; overflow: hidden; display: flex; justify-content: center; align-items: center; border: 1px solid #ccc;">
-      <img src="https://github.com/Numilou/images/blob/main/PWios.png" alt="gameios" style="width: 100%; height: 100%; object-fit: cover;" />
+    <div class="icon-container">
+        <a href="https://apps.apple.com/ru/app/pixelwoods-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0-%D0%BF%D0%BE-%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%B0%D0%BC/id1541658506">
+            <img src="https://github.com/Numilou/images/blob/main/PWios.png" alt="gameios" />
+        </a>
+        <a href="https://play.google.com/store/apps/details?id=com.beresnevgames.pixelgallery&hl=en_US&pli=1">
+            <img src="https://github.com/Numilou/images/blob/main/PWandroid.png" alt="gameandroid" />
+        </a>
     </div>
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=com.beresnevgames.pixelgallery&hl=en_US&pli=1">
-    <div style="width: 40px; height: 50px; overflow: hidden; display: flex; justify-content: center; align-items: center; border: 1px solid #ccc;">
-      <img src="https://github.com/Numilou/images/blob/main/PWandroid.png" alt="gameandroid" style="width: 100%; height: 100%; object-fit: cover;" />
-    </div>
-  </a>
-</div>
-</div>
+</body>
+</html>
 
 
 <h4>Socials</h4>
