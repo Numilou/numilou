@@ -24,16 +24,14 @@
     <a href="https://apps.apple.com/ru/app/pixelwoods-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0-%D0%BF%D0%BE-%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%B0%D0%BC/id1541658506">
       <img src="https://github.com/Numilou/images/blob/main/PWios.png" alt="gameios" width="60" height="50"/>
     </a>
-    <br/>
-    <small>iOS</small>
+    <div>iOS</div>
   </div>
 
   <div style="display: inline-block; text-align: center;">
     <a href="https://play.google.com/store/apps/details?id=com.beresnevgames.pixelgallery&hl=en_US&pli=1">
       <img src="https://github.com/Numilou/images/blob/main/PWandroid.png" alt="gameandroid" width="60" height="50"/>
     </a>
-    <br/>
-    <small>Android</small>
+    <div>Android</div>
   </div>
 </div>
 
