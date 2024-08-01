@@ -18,7 +18,7 @@
 <h3>Socials</h3>
 
 <a href="https://www.linkedin.com/in/darya-ivanova-404a87258/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/Numilou/images/blob/main/icon-linkedin.png" alt="LinkedIn Profile" width="32" height="32" />
+  <img src="https://github.com/Numilou/images/blob/main/icon-linkedin.png" alt="LinkedIn Profile" width="25" height="27" />
 </a>
 
 
