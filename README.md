@@ -7,27 +7,20 @@
 + Experience working on platforms: Android, iOS, Kindle Fire, Windows, MacOS
 + I have experience in AB testing based on analytics events
 
-<h3> You can read more about my experience in my letter of recommendation:</h3>
-
-
-<a href="https://drive.google.com/file/d/1gHYBztBoc4YdY7ZxcsnrG2A5cCiFf08-/view?usp=share_link">
-  <img src="https://github.com/Numilou/images/blob/main/icon-recommendation-letter-DG.png" alt="Latter"
-  width="50" height="52" />
-</a>
-
 <h3 align="center">Projects I've been working on:</h3>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 20px;">
   <a href="https://apps.apple.com/ru/app/pixelwoods-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0-%D0%BF%D0%BE-%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%B0%D0%BC/id1541658506">
-    <div style="width: 70px; height: 65px; display: flex; justify-content: center; align-items: center;">
-      <img src="https://github.com/Numilou/images/blob/main/PWios.png" alt="gameios" style="max-width: 100%; max-height: 100%;"/>
+    <div style="width: 70px; height: 65px; overflow: hidden; display: flex; justify-content: center; align-items: center; border: 1px solid #ccc;">
+      <img src="https://github.com/Numilou/images/blob/main/PWios.png" alt="gameios" style="width: 100%; height: 100%; object-fit: cover;" />
     </div>
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.beresnevgames.pixelgallery&hl=en_US&pli=1">
-    <div style="width: 70px; height: 65px; display: flex; justify-content: center; align-items: center;">
-      <img src="https://github.com/Numilou/images/blob/main/PWandroid.png" alt="gameandroid" style="max-width: 100%; max-height: 100%;"/>
+    <div style="width: 70px; height: 65px; overflow: hidden; display: flex; justify-content: center; align-items: center; border: 1px solid #ccc;">
+      <img src="https://github.com/Numilou/images/blob/main/PWandroid.png" alt="gameandroid" style="width: 100%; height: 100%; object-fit: cover;" />
     </div>
   </a>
+</div>
 </div>
 
 
