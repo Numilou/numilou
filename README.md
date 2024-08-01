@@ -26,7 +26,7 @@
     <img src="https://github.com/Numilou/images/blob/main/PWandroid.png" alt="gameandroid" width="60" height="50" style="display: inline-block;"/>
   </a>
 </div>
-Объяснен
+
 
 
 
