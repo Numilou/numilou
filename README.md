@@ -1,7 +1,7 @@
 
-  ### Hi there 👋
+  </sup>### Hi there 👋
 
-### :woman_technologist: About Me
+## :woman_technologist: About Me
 
 + I'm a Middle QA Engineer for mobile video games, with over 3 years of experience.
 + I have experience in functional and non-functional testing 
