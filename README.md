@@ -23,7 +23,7 @@
     <img src="https://github.com/Numilou/images/blob/main/PWios.png" alt="gameios" width="150" height="90"/>
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.beresnevgames.pixelgallery&hl=en_US&pli=1">
-    <img src="https://github.com/Numilou/images/blob/main/PWandroid.png" alt="gameandroid" width="150" height="90"/>
+    <img src="https://github.com/Numilou/images/blob/main/PWandroid.png" alt="gameandroid" width="50" height="50"/>
   </a>
 </div>
 
