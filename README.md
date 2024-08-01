@@ -11,7 +11,7 @@ You can read more about my experience in my letter of recommendation:
 
 
 <a href="https://drive.google.com/file/d/1gHYBztBoc4YdY7ZxcsnrG2A5cCiFf08-/view?usp=share_link" />
-  <img src="2024-07-31 19.05.57.jpg" alt="Latter"
+  <img src="icon-recommendation-letter.png" alt="Latter"
   width="32" height="32" />
 </a>
 
