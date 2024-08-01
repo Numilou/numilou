@@ -12,7 +12,7 @@
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://drive.google.com/file/d/1gHYBztBoc4YdY7ZxcsnrG2A5cCiFf08-/view?usp=share_link">
-    <img src="https://github.com/Numilou/images/blob/main/icon-recommendation-letter-DG.png" alt="latter" width="80" height="70"/>
+    <img src="https://github.com/Numilou/images/blob/main/icon-recommendation-letter-DG.png" alt="latter" width="70" height="50"/>
   </a>
 
 
