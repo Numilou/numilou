@@ -18,7 +18,7 @@ You can read more about my experience in my letter of recommendation:
 ### Socials
 
 <a href="https://www.linkedin.com/in/darya-ivanova-404a87258/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/Numilou/images/main/free-icon-linkedin-3128329.png" alt="LinkedIn Profile" width="32" height="32" />
+  <img src="https://github.com/Numilou/images/blob/main/icon-linkedin.png" alt="LinkedIn Profile" width="32" height="32" />
 </a>
 
 
