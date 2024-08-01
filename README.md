@@ -19,7 +19,7 @@
 <h3 align="left">Projects I've been working on:</h3>
 
 <a href="https://www.youtube.com/watch?v=1vJwc2fuKR0" style="text-decoration: none;">
-  <h2><em>Pixel Woods</em></h2>
+  <h4><em>Pixel Woods</em></h4>
 </a>
 
 
