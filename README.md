@@ -1,8 +1,8 @@
 <p align="center">
- ### :Hi there 👋 
- </p>
+  <strong>Hi there 👋</strong>
+</p>
 
-## :woman_technologist: About Me
+<h2>:woman_technologist: About Me</h2>
 
 + I'm a Middle QA Engineer for mobile video games, with over 3 years of experience.
 + I have experience in functional and non-functional testing 
