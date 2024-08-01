@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h2 align="center">Hi there 👋</h2>
 
 <h2>:woman_technologist: About Me</h2>
 
