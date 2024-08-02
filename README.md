@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="">
-    <img src="https://github.com/Numilou/images/blob/main/icon-cv.png" alt="CV" width="80" height="80"/>
+    <img src="https://github.com/Numilou/images/blob/main/icon-cv.png" alt="CV" width="60" height="75"/>
   </a>
 </p>
 
