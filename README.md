@@ -36,7 +36,7 @@
   </a>
 </p>
 
-[***_Flippy Knife_***](https://www.youtube.com/watch?v=vwa9kBuQzfw)
+[**_Flippy Knife_**](https://www.youtube.com/watch?v=vwa9kBuQzfw)
 
 <p align="left">
   <a href="https://apps.apple.com/ru/app/flippy-knife/id1208359453" style="margin-right: 20px;">
