@@ -25,7 +25,7 @@
 <h4 align="left">Popular projects I've worked on:</h4>
 
 
-[**_Pixel Woods_**](https://youtu.be/1vJwc2fuKR0?si=qvYOSo9wMtl3rrqT)
+[**Pixel Woods**](https://youtu.be/1vJwc2fuKR0?si=qvYOSo9wMtl3rrqT)
 
 <p align="left">
   <a href="https://apps.apple.com/ru/app/pixelwoods-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0-%D0%BF%D0%BE-%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%B0%D0%BC/id1541658506" style="margin-right: 20px;">
