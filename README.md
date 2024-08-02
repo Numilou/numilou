@@ -22,7 +22,7 @@
   </a>
 </p>
 
-<h3 align="left">Projects I've been working on:</h3>
+<h3 align="left">Popular projects I've worked on:</h3>
 
 
 [**_Pixel Woods_**](https://youtu.be/1vJwc2fuKR0?si=qvYOSo9wMtl3rrqT)
