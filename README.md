@@ -32,7 +32,7 @@
     <img src="https://github.com/Numilou/images/blob/main/PWios.png" alt="iOS Game" width="40" height="30"/>
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.beresnevgames.pixelgallery&hl=en_US&pli=1">
-    <img src="https://github.com/Numilou/images/blob/main/PWandroid.png" alt="Android Game" width="60" height="50"/>
+    <img src="https://github.com/Numilou/images/blob/main/PWandroid.png" alt="Android Game" width="40" height="30"/>
   </a>
 </p>
 
@@ -43,7 +43,7 @@
     <img src="https://github.com/Numilou/images/blob/main/FK1ios.png" alt="iOS Game" width="40" height="30"/>
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.BeresnevGames.Knife&hl=en">
-    <img src="https://github.com/Numilou/images/blob/main/FK1android.png" alt="Android Game" width="60" height="50"/>
+    <img src="https://github.com/Numilou/images/blob/main/FK1android.png" alt="Android Game" width="40" height="30"/>
   </a>
 </p>
 
