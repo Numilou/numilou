@@ -29,10 +29,10 @@
 
 <p align="left">
   <a href="https://apps.apple.com/ru/app/pixelwoods-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%B0-%D0%BF%D0%BE-%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%D0%B0%D0%BC/id1541658506" style="margin-right: 20px;">
-    <img src="https://github.com/Numilou/images/blob/main/PWios.png" alt="iOS Game" width="40" height="40"/>
+    <img src="https://github.com/Numilou/images/blob/main/PixelWoodsAS.png" alt="iOS Game" width="170" height="60"/>
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.beresnevgames.pixelgallery&hl=en_US&pli=1">
-    <img src="https://github.com/Numilou/images/blob/main/PWandroid.png" alt="Android Game" width="40" height="40"/>
+    <img src="https://github.com/Numilou/images/blob/main/PixelWoodsGP.png" alt="Android Game" width="170" height="60"/>
   </a>
 </p>
 
@@ -40,10 +40,10 @@
 
 <p align="left">
   <a href="https://apps.apple.com/ru/app/flippy-knife/id1208359453" style="margin-right: 20px;">
-    <img src="https://github.com/Numilou/images/blob/main/FK1ios.png" alt="iOS Game" width="40" height="40"/>
+    <img src="https://github.com/Numilou/images/blob/main/FlippyKnifeAS.png" alt="iOS Game" width="170" height="60"/>
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.BeresnevGames.Knife&hl=en">
-    <img src="https://github.com/Numilou/images/blob/main/FK1android.png" alt="Android Game" width="40" height="40"/>
+    <img src="https://github.com/Numilou/images/blob/main/FlippyKnifeGP.png" alt="Android Game" width="170" height="60"/>
   </a>
 </p>
 
