@@ -10,7 +10,7 @@
 
 + I'm a Middle QA Engineer for mobile video games, with over 3 years of experience.
 + I have experience in functional and non-functional testing 
-+ Experience working on platforms: Android, iOS, Kindle Fire, Windows, MacOS
++ Experience working on platforms: Android, iOS, Kindle Fire, Windows, macOS
 + I have experience in AB testing based on analytics events
 
 
