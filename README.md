@@ -1,4 +1,4 @@
-<h3 align="center">Hi there 👋, I'm <a href="mailto:dariaivanova0002@gmail.com">Daria</a></h3>
+<h3 align="center">Hi there 👋, I'm <a href="mailto:dariaivanova0002@gmail.com">Daria QA Engineer with 3+ years in mobile game testing. </a></h3>
 
 <p align="center">
   <a href="">
@@ -8,7 +8,6 @@
 
 <h2>:woman_technologist: About Me</h2>
 
-+ I’m a QA Engineer with 3+ years in mobile game testing.
 + I have experience in functional and non-functional testing 
 + Experience working on platforms: Android, iOS, Kindle Fire, Windows, macOS
 + I have experience in AB testing based on analytics events
