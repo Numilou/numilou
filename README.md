@@ -32,7 +32,7 @@
     <img src="https://github.com/Numilou/images/blob/main/PixelWoodsAS.png" alt="iOS Game" width="140" height="40"/>
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.beresnevgames.pixelgallery&hl=en_US&pli=1">
-    <img src="https://github.com/Numilou/images/blob/main/PixelWoodsGP.png" alt="Android Game" width="170" height="60"/>
+    <img src="https://github.com/Numilou/images/blob/main/PixelWoodsGP.png" alt="Android Game" width="140" height="40"/>
   </a>
 </p>
 
@@ -40,10 +40,10 @@
 
 <p align="left">
   <a href="https://apps.apple.com/ru/app/flippy-knife/id1208359453" style="margin-right: 20px;">
-    <img src="https://github.com/Numilou/images/blob/main/FlippyKnifeAS.png" alt="iOS Game" width="170" height="60"/>
+    <img src="https://github.com/Numilou/images/blob/main/FlippyKnifeAS.png" alt="iOS Game" width="140" height="40"/>
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.BeresnevGames.Knife&hl=en">
-    <img src="https://github.com/Numilou/images/blob/main/FlippyKnifeGP.png" alt="Android Game" width="170" height="60"/>
+    <img src="https://github.com/Numilou/images/blob/main/FlippyKnifeGP.png" alt="Android Game" width="140" height="40"/>
   </a>
 </p>
 
@@ -51,10 +51,10 @@
 
 <p align="left">
   <a href="https://apps.apple.com/in/app/gallery-coloring-book-decor/id1456596043" style="margin-right: 20px;">
-    <img src="https://github.com/Numilou/images/blob/main/GalleryAS.png" alt="iOS Game" width="170" height="60"/>
+    <img src="https://github.com/Numilou/images/blob/main/GalleryAS.png" alt="iOS Game" width="140" height="40"/>
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.beresnevgames.gallerycoloringbook&hl=de_AT">
-    <img src="https://github.com/Numilou/images/blob/main/GalleryGp.png" alt="Android Game" width="170" height="60"/>
+    <img src="https://github.com/Numilou/images/blob/main/GalleryGp.png" alt="Android Game" width="140" height="40"/>
   </a>
 </p>
 
