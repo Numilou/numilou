@@ -1,4 +1,4 @@
-<h3 align="center">Hi there 👋, I'm <a href="mailto:dariaivanova0002@gmail.com">Daria </a> QA Engineer with 3+ years in mobile game testing.</h3>
+<h3 align="center">Hi there 👋, I'm <a href="mailto:dariaivanova0002@gmail.com">Daria, </a> QA Engineer with 3+ years in mobile game testing.</h3>
 
 <p align="center">
   <a href="">
