@@ -53,8 +53,8 @@
   <a href="https://apps.apple.com/in/app/gallery-coloring-book-decor/id1456596043" style="margin-right: 20px;">
     <img src="https://github.com/Numilou/images/blob/main/GalleryAS.png" alt="iOS Game" width="150" height="60"/>
   </a>
-  <a href="https://play.google.com/store/apps/details?id=com.BeresnevGames.Knife&hl=en">
-    <img src="https://github.com/Numilou/images/blob/main/FK1android.png" alt="Android Game" width="40" height="40"/>
+  <a href="https://play.google.com/store/apps/details?id=com.beresnevgames.gallerycoloringbook&hl=de_AT">
+    <img src="https://github.com/Numilou/images/blob/main/GalleryGp.png" alt="Android Game" width="170" height="70"/>
   </a>
 </p>
 
