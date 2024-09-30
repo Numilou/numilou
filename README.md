@@ -17,7 +17,7 @@
 <h3 align="center">You can read more about my experience in my letter of recommendation:</h3>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1gHYBztBoc4YdY7ZxcsnrG2A5cCiFf08-/view?usp=share_link">
+  <a href="https://drive.google.com/file/d/1gHYBztBoc4YdY7ZxcsnrG2A5cCiFf08-/view?usp=sharing">
     <img src="https://github.com/Numilou/images/blob/main/icon-recommendation-letter-DG.png" alt="Recommendation Letter" width="60" height="60"/>
   </a>
 </p>
