@@ -1,7 +1,7 @@
 <h3 align="center">Hi there 👋, I'm <a href="mailto:dariaivanova0002@gmail.com">Daria </a></h3>
 
 <p align="center">
-  <a href="https://docs.google.com/document/d/1L_U87WN_W7BECeWgZaubZu_DLN-ykaBkvVABHj-UEPM/edit?usp=sharing">
+  <a href="https://drive.google.com/file/d/1Dyr-LFs9xNBWskCbyc4Xb6sISn41XGyK/view?usp=sharing">
     <img src="https://github.com/Numilou/images/blob/main/icon-cv.png" alt="CV" width="60" height="60"/>
   </a>
 </p>
