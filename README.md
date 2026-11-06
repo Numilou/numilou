@@ -8,7 +8,7 @@
 
 <h2>:woman_technologist: About Me</h2>
 
-+ I'm QA Engineer with 3+ years in mobile game testing.
++ I'm QA Engineer with 5+ years in mobile game testing.
 + I have experience in functional and non-functional testing 
 + Experience working on platforms: Android, iOS, Kindle Fire, Windows, macOS
 + I have experience in AB testing based on analytics events
